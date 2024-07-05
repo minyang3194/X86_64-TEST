@@ -53,7 +53,7 @@ CONFIG_PACKAGE_coreutils-sort=y
 CONFIG_PACKAGE_miniupnpd=y
 
 #主题
-# CONFIG_PACKAGE_luci-theme-argon is not set
+#CONFIG_PACKAGE_luci-theme-argon=y
 # CONFIG_PACKAGE_luci-theme-argone is not set
 # CONFIG_PACKAGE_luci-theme-atmaterial_new is not set
 CONFIG_PACKAGE_luci-theme-bootstrap=y
